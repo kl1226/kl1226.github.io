@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kl1226.github.io/sitemap.xml
